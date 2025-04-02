@@ -2,7 +2,7 @@
 
 import { useRef, useEffect } from 'react';
 import { gsap } from 'gsap';
-import Button from '@/components/UI/Button';
+import Button from '@/Components/UI/Button';
 
 export default function Hero() {
   const heroRef = useRef();

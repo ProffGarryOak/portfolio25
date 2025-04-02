@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 import { FaCode, FaServer, FaMobileAlt, FaPaintBrush } from 'react-icons/fa';
-import Divider from '@/components/UI/Divider';
+import Divider from '@/Components/UI/Divider';
 export default function About() {
   const skills = [
     {

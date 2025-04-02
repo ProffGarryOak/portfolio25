@@ -3,14 +3,14 @@ import { useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/dist/ScrollTrigger';
 import Head from 'next/head';
-import Layout from '@/components/Layout/Layout';
+import Layout from '@/Components/Layout/Layout';
 
-import Hero from '@/components/Sections/Hero';
-import About from '@/components/Sections/About';
-import Projects from '@/components/Sections/Project';
-import Skills from '@/components/Sections/Skills';
-import Contact from '@/components/Sections/Contact';
-import Divider from '@/components/UI/Divider';
+import Hero from '@/Components/Sections/Hero';
+import About from '@/Components/Sections/About';
+import Projects from '@/Components/Sections/Project';
+import Skills from '@/Components/Sections/Skills';
+import Contact from '@/Components/Sections/Contact';
+import Divider from '@/Components/UI/Divider';
 
 // Register GSAP plugins
 if (typeof window !== 'undefined') {
