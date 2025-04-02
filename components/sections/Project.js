@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import ProjectCard from '@/Components/ui/ProjectCard';
+import ProjectCard from '@/Components/UI/ProjectCard';
 
 const projects = [
   {
