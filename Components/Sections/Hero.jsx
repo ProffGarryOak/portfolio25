@@ -51,7 +51,7 @@ export default function Hero() {
             <Button href="#projects" variant="primary" className="w-full sm:w-auto">
               View Work
             </Button>
-            <Button href="https://drive.google.com/file/d/1yAOHAnoTuXbvbRmA_G4GuKoussHvMM7k/view" variant="secondary" className="w-full sm:w-auto">
+            <Button href="/resume" variant="secondary" className="w-full sm:w-auto">
               Download Resume
             </Button>
           </div>
