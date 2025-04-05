@@ -8,7 +8,7 @@ export default function ResumePage() {
 
   useEffect(() => {
     setTimeout(() => {
-      router.push("https://drive.google.com/file/d/1yAOHAnoTuXbvbRmA_G4GuKoussHvMM7k");
+      router.push("https://drive.google.com/file/d/1r4qgG6z4qajN9M8eiFVw3hajiS7T1Y12");
     }, 2000);
   }, [router]);
 

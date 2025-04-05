@@ -5,18 +5,19 @@ import ProjectCard from '@/Components/UI/ProjectCard';
 
 const projects = [
   {
-    title: "BuzzGet",
-    description: "An AI-powered financial management platform that helps you track, analyze, and optimize your spending with real-time insights.",
-    tags: ["NextJS", "PostgresSQL", "Gemini API"],
-    image: "/buzz.png",
-    link: "https://buzzget.vercel.app/"
-  },
-  {
     title: "InkSpire",
     description: "InkSpire uses advanced AI to analyze your moods and summarize your thoughts, helping you gain deeper self-awareness through journaling.",
     tags: ["Next.js", "PostgresSQL", "GEmini API"],
     image: "/ink.png",
     link: "https://inkspirejournal.vercel.app/"
+  },
+  {
+    title: "Nuzzle",
+    description: "A MERN Stack micro blogging platform that allows users to create and share short posts, follow other users, and engage with their content.",
+    tags: ["MERN", "JWT","Cloudinary"],
+    
+    image: "/nuzz.png",
+    link: "https://nuzzle.onrender.com"
   },
   {
     title: "PolyRoot",
