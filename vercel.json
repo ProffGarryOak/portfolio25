@@ -4,7 +4,19 @@
       "source": "/linkedin",
       "destination": "https://www.linkedin.com/in/adarshpandey1133",
       "permanent": true
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/ProffGarryOak/",
+      "permanent": true
+    },
+    {
+      "source": "/resume",
+      "destination": "https://github.com/ProffGarryOak/",
+      "permanent": true
     }
+    
+    
   ],
   "rewrites": [
     {
