@@ -11,7 +11,7 @@
       "permanent": true
     },
     {
-      "source": "/res",
+      "source": "/resume",
       "destination": "https://github.com/ProffGarryOak/",
       "permanent": true
     }
