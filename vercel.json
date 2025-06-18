@@ -6,12 +6,12 @@
       "permanent": true
     },
     {
-      "source": "/github",
+      "source": "/git",
       "destination": "https://github.com/ProffGarryOak/",
       "permanent": true
     },
     {
-      "source": "/resume",
+      "source": "/res",
       "destination": "https://github.com/ProffGarryOak/",
       "permanent": true
     }
