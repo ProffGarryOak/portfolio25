@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/adarshpandey1133",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/sitemap.xml",
@@ -7,10 +14,6 @@
     {
       "source": "/robots.txt",
       "destination": "/robots.txt"
-    },
-     {
-      "source": "/linkedin",
-      "destination": "https://www.linkedin.com/in/adarshpandey1133"
     },
     {
       "source": "/(.*)",
