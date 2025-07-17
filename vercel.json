@@ -1,3 +1,9 @@
 {
-    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
-  }
+  "rewrites": [
+    { "source": "/linkedin", "destination": "https://www.linkedin.com/in/adarshpandey1133" },
+    { "source": "/github", "destination": "https://www.github.com/proffgarryoak" },
+    { "source": "/resume", "destination": "https://drive.google.com/file/d/1d960Ek1vTlQu3xjiL_y-iOksfBxf_zrN/view?usp=sharing" },
+    { "source": "/python", "destination": "https://drive.google.com/file/d/1tdyrnT9qwaPi0KzcGsOXSV5w9S4HVing/view?usp=sharing" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
